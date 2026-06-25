@@ -44,19 +44,19 @@
 
 ### Sphere 函数 — 原始版
 
-<img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20260625175601511.png" alt="image-20260625175601511" style="zoom:50%;" />
+<img src="images/sphere_original.png" alt="Sphere 原始版收敛曲线" width="400" />
 
 ### Sphere 函数 — 优化版
 
-<img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20260625175702137.png" alt="image-20260625175702137" style="zoom:50%;" />
+<img src="images/sphere_optimized.png" alt="Sphere 优化版收敛曲线" width="400" />
 
 ### Rastrigin 函数 — 优化版
 
-<img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20260625175717524.png" alt="image-20260625175717524" style="zoom:50%;" />
+<img src="images/rastrigin_optimized.png" alt="Rastrigin 优化版收敛曲线" width="400" />
 
 ### Ackley 函数 — 优化版
 
-<img src="C:\Users\123\AppData\Roaming\Typora\typora-user-images\image-20260625175726778.png" alt="image-20260625175726778" style="zoom:50%;" />
+<img src="images/ackley_optimized.png" alt="Ackley 优化版收敛曲线" width="400" />
 
 ## 运行方式
 
