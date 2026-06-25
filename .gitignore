@@ -1,0 +1,11 @@
+# MATLAB autosave
+*.asv
+*.asv.*
+# MATLAB compiled binaries
+*.mexw64
+*.mexa64
+*.mexmaci64
+# OS files
+__MACOSX/
+.DS_Store
+Thumbs.db
